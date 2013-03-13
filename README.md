@@ -15,6 +15,9 @@ The easiest way to compile Phonegap apps into an installable package for your mo
 
 Just create a free account and use this (or your forked) Git repository to build your own compiled app in seconds. Phonegap Build is also available as part of the [Adobe Creative Cloud](http://www.adobe.com/products/creativecloud.html).
 
+## Downloads
+You can download packaged builds at [https://build.phonegap.com/apps/334592/share](https://build.phonegap.com/apps/334592/share).
+
 ## Live demo
 
 You can try out the demo here: 
