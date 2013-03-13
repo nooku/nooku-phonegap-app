@@ -68,7 +68,7 @@
 	 * This is configuration for your application. `Debug` should always be used unless you are submitting your app to an online
 	 * store - in which case `Release` should be specified.
 	 */
-	"configuration":"Release",
+	"configuration":"Debug",
 
 	/**
 	 * @cfg {String} platform
