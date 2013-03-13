@@ -1,7 +1,7 @@
 ## Features
 This app offers one amazing feature at the moment. So pirates, fork away and add features. Aye!
 ### News
-The News view is loading data through JSON from the frontpage of our <a target='_blank' href=\"http://demo.nooku.org\">demo website</a>.
+The News view is loading data through JSON from the frontpage of our [demo site](http://demo.nooku.org?format=json).
 
 ## Behind the scenes
 The app is built on:
