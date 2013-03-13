@@ -1,10 +1,3 @@
-//<debug>
-Ext.Loader.setPath({
-    'Ext': 'touch/src',
-    'Nooku': 'app'
-});
-//</debug>
-
 Ext.application({
     name: 'Nooku',
 
