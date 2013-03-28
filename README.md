@@ -18,6 +18,8 @@ Just create a free account and use this (or your forked) Git repository to build
 ## Downloads
 You can download packaged builds at [https://build.phonegap.com/apps/334592/share](https://build.phonegap.com/apps/334592/share).
 
+![image](http://cl.ly/Ntp0/Screen%20Shot%202013-03-28%20at%2011.38.27.png)
+
 ## Live demo
 
 You can try out the demo here: 
